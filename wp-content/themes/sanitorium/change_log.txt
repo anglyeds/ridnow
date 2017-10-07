@@ -1,0 +1,14 @@
+Version 1.0
+i) Intial version Release
+
+Version 1.1
+i) Resolved functionality issues and removed unused files and functions also did the changes as asked by reviewer.
+
+Version 1.2
+i) Added core functions and remove unused custom functions also resolve some issues as per reviewers instructions.
+
+Version 1.2.1
+i) Resolve few issues as asked by reviewer.
+
+Version 1.2.2
+i) Resolve site title and tagline issue and added color option.
