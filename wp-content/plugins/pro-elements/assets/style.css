@@ -1,0 +1,5 @@
+i.vc_element-icon.vc-icon {
+	background-image:url(vc-icon.png);
+}
+
+.update-nag.bsf-update-nag, li.toplevel_page_bsf-registration {display:none !important;}

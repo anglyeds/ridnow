@@ -1,0 +1,401 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Progression Elements\n"
+"POT-Creation-Date: 2016-11-15 18:37+0200\n"
+"PO-Revision-Date: 2016-11-15 18:37+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: pro-custom.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: elements/event-shortcode.php:90
+msgid "Pro Events"
+msgstr ""
+
+#: elements/event-shortcode.php:91
+msgid "List your Event items"
+msgstr ""
+
+#: elements/event-shortcode.php:95 elements/map-shortcode.php:116
+#: elements/program-shortcode.php:313
+msgid "Pro Elements"
+msgstr ""
+
+#: elements/event-shortcode.php:103
+msgid "Narrow Event Categories"
+msgstr ""
+
+#: elements/event-shortcode.php:106
+msgid ""
+"Enter Event category slugs to display a specific category. Add-in multiple "
+"category slugs separated by a comma to use multiple categories. (Leave blank "
+"to pull in all event posts)."
+msgstr ""
+
+#: elements/event-shortcode.php:111
+msgid "Grid Columns"
+msgstr ""
+
+#: elements/event-shortcode.php:128
+msgid "Number of Event Posts"
+msgstr ""
+
+#: elements/event-shortcode.php:131
+msgid "Enter the number of event posts you wish to display on the page."
+msgstr ""
+
+#: elements/map-shortcode.php:111
+msgid "Pro Map"
+msgstr ""
+
+#: elements/map-shortcode.php:112
+msgid "Google Maps Location"
+msgstr ""
+
+#: elements/map-shortcode.php:126
+msgid "Map Address"
+msgstr ""
+
+#: elements/map-shortcode.php:128
+msgid "1600 Holloway Ave, San Francisco, CA 94132"
+msgstr ""
+
+#: elements/map-shortcode.php:134
+msgid "Map Pin Heading"
+msgstr ""
+
+#: elements/map-shortcode.php:142
+msgid "Map Pin Text"
+msgstr ""
+
+#: elements/map-shortcode.php:149
+msgid "Map Height"
+msgstr ""
+
+#: elements/map-shortcode.php:151
+msgid "500px"
+msgstr ""
+
+#: elements/map-shortcode.php:156
+msgid "Map Zoom"
+msgstr ""
+
+#: elements/map-shortcode.php:158
+msgid "12"
+msgstr ""
+
+#: elements/map-shortcode.php:163
+msgid "Custom Map Pin"
+msgstr ""
+
+#: elements/map-shortcode.php:170
+msgid "Open Map Marker Automatically"
+msgstr ""
+
+#: elements/map-shortcode.php:178
+msgid "Map Type"
+msgstr ""
+
+#: elements/map-shortcode.php:192
+msgid "Optional - Over-ride Map Center Address"
+msgstr ""
+
+#: elements/map-shortcode.php:193
+msgid "Only works when map markers are closed by default."
+msgstr ""
+
+#: elements/map-shortcode.php:204
+msgid "Second Map Address"
+msgstr ""
+
+#: elements/map-shortcode.php:207 elements/map-shortcode.php:216
+#: elements/map-shortcode.php:225 elements/map-shortcode.php:233
+#: elements/map-shortcode.php:241
+msgid "Second Pin"
+msgstr ""
+
+#: elements/map-shortcode.php:213
+msgid "Second Map Pin Heading"
+msgstr ""
+
+#: elements/map-shortcode.php:222
+msgid "Second Map Pin Text"
+msgstr ""
+
+#: elements/map-shortcode.php:230
+msgid "Second Custom Map Pin"
+msgstr ""
+
+#: elements/map-shortcode.php:238
+msgid "Second Open Map Marker Automatically"
+msgstr ""
+
+#: elements/map-shortcode.php:249
+msgid "Third Map Address"
+msgstr ""
+
+#: elements/map-shortcode.php:252 elements/map-shortcode.php:261
+#: elements/map-shortcode.php:270 elements/map-shortcode.php:278
+#: elements/map-shortcode.php:286
+msgid "Third Pin"
+msgstr ""
+
+#: elements/map-shortcode.php:258
+msgid "Third Map Pin Heading"
+msgstr ""
+
+#: elements/map-shortcode.php:267
+msgid "Third Map Pin Text"
+msgstr ""
+
+#: elements/map-shortcode.php:275
+msgid "Third Custom Map Pin"
+msgstr ""
+
+#: elements/map-shortcode.php:283
+msgid "Third Open Map Marker Automatically"
+msgstr ""
+
+#: elements/map-shortcode.php:294
+msgid "Fourth Map Address"
+msgstr ""
+
+#: elements/map-shortcode.php:297 elements/map-shortcode.php:306
+#: elements/map-shortcode.php:315 elements/map-shortcode.php:323
+#: elements/map-shortcode.php:331
+msgid "Fourth Pin"
+msgstr ""
+
+#: elements/map-shortcode.php:303
+msgid "Fourth Map Pin Heading"
+msgstr ""
+
+#: elements/map-shortcode.php:312
+msgid "Fourth Map Pin Text"
+msgstr ""
+
+#: elements/map-shortcode.php:320
+msgid "Fourth Custom Map Pin"
+msgstr ""
+
+#: elements/map-shortcode.php:328
+msgid "Fourth Open Map Marker Automatically"
+msgstr ""
+
+#: elements/map-shortcode.php:338
+msgid "Fifth Map Address"
+msgstr ""
+
+#: elements/map-shortcode.php:341 elements/map-shortcode.php:350
+#: elements/map-shortcode.php:359 elements/map-shortcode.php:367
+#: elements/map-shortcode.php:375
+msgid "Fifth Pin"
+msgstr ""
+
+#: elements/map-shortcode.php:347
+msgid "Fifth Map Pin Heading"
+msgstr ""
+
+#: elements/map-shortcode.php:356
+msgid "Fifth Map Pin Text"
+msgstr ""
+
+#: elements/map-shortcode.php:364
+msgid "Fifth Custom Map Pin"
+msgstr ""
+
+#: elements/map-shortcode.php:372
+msgid "Fifth Open Map Marker Automatically"
+msgstr ""
+
+#: elements/program-shortcode.php:224
+msgid "No more posts"
+msgstr ""
+
+#: elements/program-shortcode.php:282 elements/program-shortcode.php:288
+msgid "Load More"
+msgstr ""
+
+#: elements/program-shortcode.php:308
+msgid "Pro Programs"
+msgstr ""
+
+#: elements/program-shortcode.php:309
+msgid "Programs post list"
+msgstr ""
+
+#: elements/program-shortcode.php:321
+msgid "Program Columns"
+msgstr ""
+
+#: elements/program-shortcode.php:333
+msgid "Program Column Padding"
+msgstr ""
+
+#: elements/program-shortcode.php:371
+msgid "Program Post Count"
+msgstr ""
+
+#: elements/program-shortcode.php:381
+msgid "Program Pagination"
+msgstr ""
+
+#: elements/program-shortcode.php:384
+msgid "No Pagination"
+msgstr ""
+
+#: elements/program-shortcode.php:385
+msgid "Default Pagination"
+msgstr ""
+
+#: elements/program-shortcode.php:386
+msgid "Load More Posts"
+msgstr ""
+
+#: elements/program-shortcode.php:387
+msgid "Infinite Scroll"
+msgstr ""
+
+#: elements/program-shortcode.php:402
+msgid "Narrow by Categories"
+msgstr ""
+
+#: elements/program-shortcode.php:403
+msgid ""
+"Enter category slugs to display a specific category. Add-in multiple "
+"category slugs seperated by a comma to use multiple categories. (Leave blank "
+"to pull in all categories)."
+msgstr ""
+
+#: elements/program-shortcode.php:412
+msgid "Display Program Sorting?"
+msgstr ""
+
+#: elements/program-shortcode.php:420
+msgid "Category Filter Text for All Posts"
+msgstr ""
+
+#: elements/program-shortcode.php:434
+msgid "Hide text description"
+msgstr ""
+
+#: elements/program-shortcode.php:442
+msgid "Text Background Color"
+msgstr ""
+
+#: elements/program-shortcode.php:445 elements/program-shortcode.php:456
+#: elements/program-shortcode.php:466 elements/program-shortcode.php:477
+#: elements/program-shortcode.php:487 elements/program-shortcode.php:496
+#: elements/program-shortcode.php:505 elements/program-shortcode.php:515
+#: elements/program-shortcode.php:524 elements/program-shortcode.php:533
+#: elements/program-shortcode.php:543
+msgid "Design Options"
+msgstr ""
+
+#: elements/program-shortcode.php:453
+msgid "Filter Font Size"
+msgstr ""
+
+#: elements/program-shortcode.php:463
+msgid "Filter Text Color"
+msgstr ""
+
+#: elements/program-shortcode.php:474
+msgid "Heading Font Size"
+msgstr ""
+
+#: elements/program-shortcode.php:484
+msgid "Heading Font Color"
+msgstr ""
+
+#: elements/program-shortcode.php:493
+msgid "Subheadline Font Size"
+msgstr ""
+
+#: elements/program-shortcode.php:502
+msgid "Subheadline Font Color"
+msgstr ""
+
+#: elements/program-shortcode.php:512
+msgid "Description Font Size"
+msgstr ""
+
+#: elements/program-shortcode.php:521
+msgid "Description Font Color"
+msgstr ""
+
+#: elements/program-shortcode.php:530
+msgid "Button Background Color"
+msgstr ""
+
+#: elements/program-shortcode.php:540
+msgid "Button Text Color"
+msgstr ""
+
+#: pro-custom.php:32
+msgid "Programs"
+msgstr ""
+
+#: pro-custom.php:33
+msgid "Program"
+msgstr ""
+
+#: pro-custom.php:47
+msgid "Program Categories"
+msgstr ""
+
+#: pro-custom.php:63
+msgid "Google Maps"
+msgstr ""
+
+#: pro-custom.php:71
+msgid "Google Maps API Key"
+msgstr ""
+
+#: templates/custom-templates.php:13
+msgid " Home Page"
+msgstr ""
+
+#: templates/custom-templates.php:45
+msgid " About Page"
+msgstr ""
+
+#: templates/custom-templates.php:63
+msgid " Location Page"
+msgstr ""
+
+#: templates/custom-templates.php:84
+msgid " Contact Page"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Progression Elements"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://progressionstudios.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "This plugin registers custom elements for Progression Studios"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Progression Studios"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://progressionstudios.com/"
+msgstr ""
